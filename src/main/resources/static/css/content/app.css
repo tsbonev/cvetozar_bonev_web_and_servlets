@@ -1,0 +1,13 @@
+.alert{
+    display: block;
+    font-weight: bold;
+}
+.alert:empty{
+    display: none;
+}
+
+.pass-error{
+
+    font-weight: bold;
+    color: red;
+}
